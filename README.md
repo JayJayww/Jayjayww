@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Janne and i study at LAB and this is where all my work will be rewievable
+## Hi there 👋 I'm Janne and i study at LAB and this is where all my work will be reviewable
 
 <!--
 **JayJayww/Jayjayww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
