@@ -1,5 +1,7 @@
 ## Hi there 👋 
 
+I'm Janne Juntumaa and i study at LAB and this is where all my school work will be reviewable
+
 <!--
 **JayJayww/Jayjayww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
