@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Janne Juntumaa and i study at LAB and this is where all my school work will be reviewable
+I'm Janne Juntumaa and i study at LAB and this is where all my school work will be reviewable. 
 Most of my work will be found from Sample repository!
 
 <!--
