@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm Janne and im 26yo and im studying computer science and developing at LAB. Here im putting all my work during my studies.
 
 <!--
 **Jayjayww/Jayjayww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
